@@ -4,7 +4,7 @@ import requests
 import datetime
 
 # Replace with your actual API key
-API_KEY = 'IRJSXU80IAOV6II1'
+API_KEY = 'YOUR API KEY'
 
 # Define the PriceRequest and PriceResponse models
 class PriceRequest(Model):
